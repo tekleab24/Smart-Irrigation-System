@@ -1,3 +1,1 @@
-selam guys this is the githup repo for our intern project ECS "Enviromental Control System"
-- you can use this repo to branch the master file and add your code to it
-- we can use it to work on both the arduino c file and the react project
+This web based smart irrigation system is build using laravel as backend and laravels blade templating engine as a front end. it automates irrigation by reading the water level from the soil and by sending a signal to the web based controller by using an esp 32 micro controller
